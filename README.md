@@ -55,11 +55,6 @@ Conclusion
 
 This lab demonstrated the vulnerabilities of both classical and theoretical "perfect" encryption schemes. Substitution ciphers, though more secure than Caesar, can still be broken through linguistic patterns and frequency analysis. OTP, while theoretically unbreakable in confidentiality, is not secure in terms of integrity, allowing attackers to modify encrypted content without the key. Both exercises highlighted how encryption alone is not sufficient without authentication mechanisms.
 
-Files submitted:
-- ex1.py – Script for substitution cipher decryption
-- story_cipher.txt – Ciphertext input
-- solution.txt – Decrypted plain text output
-- ex2.py – OTP manipulation script
-- Jupyter Notebook (lab2_sarvesh_1008107.ipynb or .pdf) – Report with outputs
+
 
 
